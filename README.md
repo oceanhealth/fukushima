@@ -1,4 +1,4 @@
-![healthyocean](/ocean.png "healthyocean")
+![healthyocean](/flowers.jpg "healthyocean")
 ### Summary 
 
 
