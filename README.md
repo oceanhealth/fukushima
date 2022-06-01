@@ -1,6 +1,6 @@
-# Ocean Health Cooperative 
+![healthyocean](/ocean.png "healthyocean")
 ### Summary 
-General Summary 
+
 
 
 ### Summary of Risks
