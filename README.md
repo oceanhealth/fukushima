@@ -2,13 +2,13 @@
 ###### Final Semester. 2022.07.01
 
 
-Japan has opened a public comment period regarding the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
+Japan has opened a public comment period on the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
 
 
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
 # Summary
-This is a report on environmental impact potential health and safety implications of controlled planetary radionuclide release, proposed as the solution to the ongoing. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
+The health and safety implications of controlled radionuclide release into the Pacific Ocean, proposed as the solution to the ongoing. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
 ![flowers](docs/assets/img/simulation.png)
 
 
