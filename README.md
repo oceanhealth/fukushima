@@ -1,8 +1,9 @@
 
 # Summary
 In a few months, Japan has to make final decision on extending the storage of radioactive wastewater from the Fukushima disaster and avoid any into the Pacific Ocean.
-This decision would affect residents of the USA and the whole world. Dumping radioactive waste into the ocean was banned in 1972 ( The London Convention )
-This article does not question or debate the efficacy of Nuclear Energy , but rather emphasise our long understood responsibility to safely store the nuclear waste in line with the London Convention. 
+This decision would affect residents of the USA and the whole world. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited. ( The London Convention )
+
+DISCLAIMER: This article does not question or debate the efficacy of Nuclear Energy. It is an analysis of proposed options in the constantly evolving active remediation effort of the powerplant, with emphasis on responsibility to nature.  
 
 # Proposed Solution. 
 Honor the work of the ,  TEPCO for the last 12  , the engineers for the last 12 years.  Fukushima Will become the global beacon for 
