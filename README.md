@@ -25,6 +25,7 @@ Currently there is 1.3 million tons of radioactive water stored in tanks near th
 
 ### Combinatorial Effects
 Modern industry has resulted in thousands of synthetic chemicals flooding our natural environment.  Need extensive testing. Pefect opportunity with large isolated equally divided tanks. 
+img of animale types across tanks , and industry inputs across tanks, iteratively
 
 
 ### Top Proposals 
