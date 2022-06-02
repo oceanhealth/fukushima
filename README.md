@@ -1,6 +1,6 @@
  
-##### Environmental Impact Report OHC201
-##### Final Semester. 2022.07.01
+#### Environmental Impact Report OHC201
+#### Final Semester. 2022.07.01
 
 
 # Summary
@@ -9,7 +9,7 @@ Japan has opened a public comment period regarding the final decision on storing
 
 
 
-##### DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. This essay is an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. Marine plants produce over 70% of our oxygen and our ocean is a resource of incalculable value in 
+##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety implications of controlled planetary radionuclide release. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
 
 
 
