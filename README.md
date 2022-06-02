@@ -11,11 +11,10 @@ Japan has opened a public comment period regarding the final decision on storing
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety implications of controlled planetary radionuclide release. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
 
 
-
 # Background
 Currently there is 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. The process took 11 years and $178 B USD 
 ![flowers](docs/assets/img/flowers.jpg)
-![flowers](docs/assets/img/simulation.jpg)
+![flowers](docs/assets/img/simulation.png)
 ![flowers](docs/assets/img/watertanks.jpg)
 ![flowers](docs/assets/img/watertanks2.jpg)
 ### Summary 
@@ -46,6 +45,11 @@ Modern industry has resulted in thousands of synthetic chemicals flooding our na
 # Surf Aerosol 
 Coastal communities often experience surf aerosols. 
 
+
+
+Natures capacity to withstand radioactive contamination.
+
+The carefully budget radioactive threshold  irreversibly damage the ecological ability to sustain life. 
 
 ### Top Proposals 
 -- concrete lake
