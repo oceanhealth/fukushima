@@ -6,10 +6,7 @@
 # Summary
 Japan has opened a public comment period regarding the final decision on storing or dumping radioactive wastewater from the Fukushima disaster into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited by the London Convention.
 
-DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. 
-
-# Background
-Our ocean is a resource of incalculable value. Marine plants produce over 70% of our oxygen. The ocean is central and critically important in our evolving struggle against Climate Change. 
+##### DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. Our ocean is a resource of incalculable value. Marine plants produce over 70% of our oxygen. The ocean is centrally important in our struggle against Climate Change. 
 ![flowers](docs/assets/img/oceans.jpg)
 
 
