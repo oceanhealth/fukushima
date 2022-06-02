@@ -3,7 +3,7 @@
 
 
 # Summary
-Japan has opened public comment period to make final decision on storing radioactive wastewater from the Fukushima disaster or dump it into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited. ( The London Convention )
+Japan has opened a public comment period to make final decision on storing radioactive wastewater from the Fukushima disaster or dump it into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited. ( The London Convention )
 
 DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is an analysis of proposed options in the constantly evolving active remediation effort of the powerplant, with emphasis on responsibility to nature.   Proper analysis on the implications of planetary radionuclide discemination as a disposal strategy. 
 
