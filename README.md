@@ -3,9 +3,9 @@
 
 
 # Summary
-Japan has opened a public comment period regarding final decision on storing or dumping radioactive wastewater from the Fukushima disaster into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited. ( The London Convention )
+Japan has opened a public comment period regarding the final decision on storing or dumping radioactive wastewater from the Fukushima disaster into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited by the London Convention.
 
-DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is an analysis of publically released health and safety data and potential implications of controlled planetary radionuclide contamination. 
+DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. 
 
 # Proposed Solution. 
 Honor the work of the ,  TEPCO for the last 12  , the engineers for the last 12 years.  Fukushima Will become the global beacon for 
