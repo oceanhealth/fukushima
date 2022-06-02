@@ -8,8 +8,15 @@ Japan has opened a public comment period regarding the final decision on storing
 DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. 
 
 # Background
-Our oceans are a resource of incalculable value. Marine plants in the ocean produce over 70% of our oxygen. They are the 
+Our oceans are a resource of incalculable value. Marine plants in the ocean produce over 70% of our oxygen.  The ocean is central and critically important in our future Climate Change. 
 ![flowers](docs/assets/img/oceans.jpg)
+
+# Water Desalination Future
+
+
+# Surf Aerosol 
+Coastal communities often experience surf aerosols. 
+
 
 # Proposed Solution. 
 Honor the work of the engineering teams for the last 12  , the engineers for the last 12 years.  Fukushima Will become the global beacon for 
