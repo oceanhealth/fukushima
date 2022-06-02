@@ -19,6 +19,10 @@ Currently there is 1.3 million tons of radioactive water stored in tanks near th
 ### Summary of Risks
 
 
+### Combinatorial Effects
+Ocean filled with thousands of synthetic chemicals.  Need extensive testing. Pefect opportunity with large isolated equally divided tanks. 
+
+
 ### Top Proposals 
 -- concrete lake
 -- evaporation
