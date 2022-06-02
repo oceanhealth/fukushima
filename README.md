@@ -1,5 +1,3 @@
-
-
 A very important decision in Japan that would affect residents of the USA and the whole world.
 
 Dumping radioactive waste into the ocean was banned in 1972 ( The London Convention )
