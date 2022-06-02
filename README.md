@@ -9,6 +9,9 @@ This article does not question or debate the efficacy of Nuclear Energy. It is s
 Today, the time has come for the international community to help Japan fullfil it's responsibility to safely store the nuclear waste in line with the London Convention of 1972. 
 
 ![flowers](docs/assets/img/flowers.jpg)
+![flowers](docs/assets/img/simulation.jpg)
+![flowers](docs/assets/img/watertanks.jpg)
+![flowers](docs/assets/img/watertanks2.jpg)
 ### Summary 
 
 
