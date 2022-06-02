@@ -1,4 +1,4 @@
-# Environmental Sciences ESA201
+### Environmental Sciences ESA201
 ### Final Semester report. Aug
 
 
@@ -8,14 +8,10 @@ Japan has opened a public comment period regarding the final decision on storing
 DISCLAIMER: This essay does not question or debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety data and potential implications of a controlled planetary radionuclide release. 
 
 # Background
-Our oceans are a resource of incalculable value. Marine plants in the ocean produce over 70% of our oxygen.  The ocean is central and critically important in our future Climate Change. 
+Our oceans are a resource of incalculable value. Marine plants in the ocean produce over 70% of our oxygen.  The ocean is central and critically important in our evolving struggle against Climate Change. 
 ![flowers](docs/assets/img/oceans.jpg)
 
-# Water Desalination Future
 
-
-# Surf Aerosol 
-Coastal communities often experience surf aerosols. 
 
 
 # Proposed Solution. 
@@ -43,6 +39,12 @@ Modern nuclear powerplants have enhanced safety features and default safe design
 ### Combinatorial Effects
 Modern industry has resulted in thousands of synthetic chemicals flooding our natural environment.  Need extensive testing. Pefect opportunity with large isolated equally divided tanks. 
 img of animale types across tanks , and industry inputs across tanks, iteratively
+
+# Water Desalination Future
+
+
+# Surf Aerosol 
+Coastal communities often experience surf aerosols. 
 
 
 ### Top Proposals 
