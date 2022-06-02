@@ -12,8 +12,11 @@ Japan has opened a public comment period regarding the final decision on storing
 
 
 # Background
-Currently there is 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. The process took 11 years and $178 B USD 
+Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 B USD 
 ![flowers](docs/assets/img/flowers.jpg)
+
+
+GEOMAR computer models predict half of the Pacific Ocean would be polluted in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 ![flowers](docs/assets/img/simulation.png)
 ![flowers](docs/assets/img/watertanks.jpg)
 ![flowers](docs/assets/img/watertanks2.jpg)
