@@ -1,6 +1,5 @@
  
-#### Environmental Impact Report OHC201
-#### Final Semester. 2022.07.01
+###### Final Semester. 2022.07.01
 
 
 # Summary
