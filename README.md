@@ -2,13 +2,14 @@
 ###### Final Semester. 2022.07.01
 
 
+Japan has opened a public comment period regarding the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
+
+
+##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
+
 # Summary
-Japan has opened a public comment period regarding the final decision on storing or dumping radioactive wastewater from the Fukushima disaster into the Pacific Ocean. In 1972, dumping radioactive waste into the ocean was banned and internationally prohibited by the London Convention.
-
-
-
-
-##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. It is only an analysis of the health and safety implications of controlled planetary radionuclide release. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
+This is a report on environmental impact potential health and safety implications of controlled planetary radionuclide release, proposed as the solution to the ongoing. Marine plants produce over 70% of our oxygen and the ocean is a resource of incalculable value.
+![flowers](docs/assets/img/simulation.png)
 
 
 # Background
@@ -17,7 +18,7 @@ Currently there are 1.3 million tons of radioactive water stored in tanks near t
 
 
 GEOMAR computer models predict half of the Pacific Ocean would be polluted in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
-![flowers](docs/assets/img/simulation.png)
+
 ![flowers](docs/assets/img/watertanks.jpg)
 ![flowers](docs/assets/img/watertanks2.jpg)
 ### Summary 
