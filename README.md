@@ -8,11 +8,14 @@ Japan has opened a public comment period on the final decision to dump radioacti
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
 # Summary
-This is a health and safety analysis of the proposed radioactive release into the Pacific Ocean. Marine plants produce over 70% of our oxygen and the ocean is of central importance in our strategy to solve Climate Change. 
-
+This is a health and safety alert regarding the proposed radioactive dumping into the Pacific Ocean. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months.
 ![flowers](docs/assets/img/simulation.png)
 
-GEOMAR computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
+Marine plants produce over 70% of our oxygen and the ocean is of central importance in our strategy to solve Climate Change. 
+
+
+
+ During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 
 
 # Background
