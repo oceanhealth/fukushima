@@ -4,7 +4,7 @@ Public comment period open the final decision to dump radioactive wastewater fro
 
 # Alert
 #### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination of nearly half the Pacific Ocean in 57 days, with radioactive contamination reaching the west coast of the United States in 5-6 months. 
-![flowers](docs/assets/img/simulation.png)
+![flowers](docs/assets/img/compmodel.png)
 
 Radioactive contamination of the environment through dispersal of radionuclides is irreversible. Accumulated or ingested radionuclides will continue to emit radiation for hundreds of years, in some cases millions of years. Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
 ![flowers](docs/assets/img/radsb.png) 
