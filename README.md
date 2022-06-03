@@ -8,10 +8,10 @@ Japan has opened a public comment period on the final decision to dump radioacti
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
 # Summary
-This is a health and safety alert regarding the proposed discharge of radioactive material into the Pacific Ocean. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months.
+This is a health and safety alert regarding the proposed discharge of radioactive material into the Pacific Ocean. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. 
 ![flowers](docs/assets/img/simulation.png)
 
-Marine plants produce over 70% of our oxygen and the ocean is of central importance in our strategy to solve Climate Change. 
+Radioactive waste dumping in the Ocean was banned in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. 
 
 
 
