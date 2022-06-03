@@ -1,10 +1,5 @@
- 
-###### Final Semester. 2022.07.01
-
-
-Japan has opened a public comment period on the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
-
-
+##### Final Semester. UPDATE 2022.06.03
+Public comment period open the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
 # Summary
