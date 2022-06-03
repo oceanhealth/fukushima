@@ -11,11 +11,14 @@ Japan has opened a public comment period on the final decision to dump radioacti
 This is a health and safety alert regarding the proposed discharge of radioactive material into the Pacific Ocean. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. 
 ![flowers](docs/assets/img/simulation.png)
 
-Radioactive waste dumping in the Ocean was banned in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. 
+
+The official reports released by Tokyo Electric and Power Corporation explicitly admit that it is not possible to completely decontaminate the water before discharging it into the Pacific Ocean. Independent analysys from Greenpeace have published data that radioactive levels far exceed safe levels.
+
+# img particles 
 
 
 
- During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
+Radioactive waste dumping in the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 
 
 # Background
@@ -55,10 +58,6 @@ Modern industry has resulted in thousands of synthetic chemicals flooding our na
 Coastal communities often experience surf aerosols. 
 
 
-
-Natures capacity to withstand radioactive contamination.
-
-The carefully budget radioactive threshold  irreversibly damage the ecological ability to sustain life. 
 
 ### Top Proposals 
 -- concrete lake
