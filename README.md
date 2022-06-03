@@ -3,20 +3,18 @@ Public comment period open the final decision to dump radioactive wastewater fro
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
 # Alert
-### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. The radiological hazards
-on the Fukushima Daiichi site are globally unprecedented for a nuclear power plant. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. 
+#### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination of nearly half the Pacific Ocean in 57 days, with radioactive contamination reaching the west coast of the United States in 5-6 months. 
 ![flowers](docs/assets/img/simulation.png)
 
-Radioactive contamination of the environment by dispersal of hazardous radionuclides is irreversible. Scattered or ingested radionuclides will continue to emit radiation for hundreds of years, in some cases millions of years. 
+Radioactive contamination of the environment through dispersal of radionuclides is irreversible. Accumulated or ingested radionuclides will continue to emit radiation for hundreds of years, in some cases millions of years. Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
 ![flowers](docs/assets/img/radsb.png) 
 
 
-Official reports released by TEPCO reveal that radioactive material will not be completely removed before discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
+Even official reports released by TEPCO reveal that radioactive material will not be completely removed before discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
 ![flowers](docs/assets/img/rads.png) 
 
 
-Claims and assertions in the official reports have been challenged by independent scientists and scientists from organizations like Greenpeace.
-
+Numerous claims advertised in the official reports have been challenged by scientists.
 
 Radioactive waste dumping in the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 
