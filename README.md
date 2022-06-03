@@ -2,8 +2,8 @@
 Public comment period open the final decision to dump radioactive wastewater from Fukushima into the Pacific Ocean. 
 ##### DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 
-# Summary
-This is a health and safety alert regarding the proposed discharge of radioactive material into the Pacific Ocean. The radiological hazards
+# Alert
+### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. The radiological hazards
 on the Fukushima Daiichi site are globally unprecedented for a nuclear power plant. Computer models show half of the Pacific Ocean would be contaminated in less than 57 days, and the radioactive contamination would reach the west coast of the United States in 5-6 months. 
 ![flowers](docs/assets/img/simulation.png)
 
