@@ -1,5 +1,5 @@
 ##### UPDATE 2022.06.03 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
-Public comment period open now on final decision to dump radioactive wastewater from Fukushima into the Ocean. 
+Public comment period open May 18 - June 17 
 
 
 # Alert
