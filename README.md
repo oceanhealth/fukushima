@@ -22,6 +22,10 @@ Radioactive waste dumping into the Ocean was banned under international law in 1
 International environmental groups pointed out in 2021 that TEPCO's water treatment technology of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
 ##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 
+
+##### SOURCE: https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
+
+
 ## International Precedent
 If the international community accepts one country dumping radioactive waste into the ocean, it sets the precedent of acceptable behavior and Ocean Dumping may be considered as acceptable for other nations as well. It has been well understood since 1972 that the consequences of disposing radioactive material in the ocean are impossible to anticipate. 
 
@@ -38,29 +42,31 @@ Resources:
 Greenpeace Summary
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
 
+
 Modern nuclear powerplants have enhanced safety features and default safe designs which enable them operate to in the event of a power outage. At the same time new developments 
 
 
 
-# Proposed Solution. 
+## Proposed Solution
 Honor the work of the engineering teams for the last 12  , the engineers for the last 12 years.  Fukushima Will become the global beacon for 
 img of animale types across tanks , and industry inputs across tanks, iteratively
 
 
-### Summary of Risks
+## Summary of Risks
 
 
-### Combinatorial Effects
+## Combinatorial Effects
 Modern industry has resulted in thousands of synthetic chemicals flooding our natural environment.  Need extensive testing. Pefect opportunity with large isolated equally divided tanks. 
 
+## Water Desalination Future
+Consideration of water usage scenarios where desalination may provide drinking water may become unfeasable if long lived radioniclide concentrations exceed safe thresholds. 
 
-# Water Desalination Future
-
-
-# Surf Aerosol 
+## Surf Aerosol 
 Coastal communities often experience surf aerosols. 
 
 
+Official TEPCO Decomissioning site:
+https://www.tepco.co.jp/en/hd/responsibility/index-e.html
 
 ### Top Proposals 
 -- concrete lake
