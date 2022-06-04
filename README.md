@@ -14,8 +14,12 @@ Official reports released by TEPCO reveal that radioactive material will be pres
 ![flowers](docs/assets/img/rads.png) 
 
 
+# Violation
 Radioactive waste dumping into the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 
+# Flawed Filters
+International environmental groups pointed out in 2021 that TEPCO's water treatment technology of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
+##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 
 # Background
 Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 B USD 
