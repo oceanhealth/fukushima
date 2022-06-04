@@ -38,14 +38,14 @@ Currently there are 1.3 million tons of radioactive water stored in tanks near t
 ## Back background
 Our oceans are a natural resource of incalculable value. 
 
-Resources: 
-Greenpeace Summary
+## Resources: 
+#### Greenpeace Summary
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
 
-University of Hawaii Statement:
+#### University of Hawaii Statement:
 https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
 
-Official TEPCO Decomissioning site:
+#### Official TEPCO Decomissioning site:
 https://www.tepco.co.jp/en/hd/responsibility/index-e.html
 
 Modern nuclear powerplants have enhanced safety features and default safe designs which enable them operate to in the event of a power outage. At the same time new developments 
