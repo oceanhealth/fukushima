@@ -42,6 +42,11 @@ Resources:
 Greenpeace Summary
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
 
+University of Hawaii Statement:
+https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
+
+Official TEPCO Decomissioning site:
+https://www.tepco.co.jp/en/hd/responsibility/index-e.html
 
 Modern nuclear powerplants have enhanced safety features and default safe designs which enable them operate to in the event of a power outage. At the same time new developments 
 
@@ -65,8 +70,6 @@ Consideration of water usage scenarios where desalination may provide drinking w
 Coastal communities often experience surf aerosols. 
 
 
-Official TEPCO Decomissioning site:
-https://www.tepco.co.jp/en/hd/responsibility/index-e.html
 
 ### Top Proposals 
 -- concrete lake
