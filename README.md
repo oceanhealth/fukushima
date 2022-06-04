@@ -10,7 +10,7 @@ Radioactive contamination of the environment by dispersal of radionuclides is mu
 ![flowers](docs/assets/img/radsb.png) 
 
 Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented. Official reports released by TEPCO reveal that radioactive material will be present in the water being discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
-![flowers](docs/assets/img/rads.png) 
+![flowers](docs/assets/img/rads_pink.png) 
 
 
 # International Precedent
