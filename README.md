@@ -21,14 +21,13 @@ Radioactive waste dumping into the Ocean was banned under international law in 1
 International environmental groups pointed out in 2021 that TEPCO's water treatment technology of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
 ##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 
-# Background
-Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 B USD 
-![flowers](docs/assets/img/flowers.jpg)
+## International Precedent
+If the international community accepts one country dumping radioactive waste into the ocean, it sets the precedent of acceptable behavior and Ocean Dumping may be considered as acceptable for other nations as well. It has been well understood since 1972 that the consequences of disposing radioactive material in the ocean are impossible to anticipate. 
 
 
-
-![flowers](docs/assets/img/watertanks.jpg)
-![flowers](docs/assets/img/watertanks2.jpg)
+# International Opportunity
+Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 Billion USD. 
+![tanks](docs/assets/img/flowers.jpg)
 ### Summary 
 
 ## Back background
