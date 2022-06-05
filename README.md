@@ -5,11 +5,11 @@ Public comment period open May 18 2022 - June 17 2022
 # Alert
 #### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination of nearly half the Pacific Ocean in 57 days after start of discharge process. Radioactive contamination projected to reach the west coast of the United States in 5-6 months. 
 ![flowmodel](docs/assets/img/compmodel.png)
-###### SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
+####### SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
 
 Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
 ![spreaddemo](docs/assets/img/radsb.png) 
-###### SOURCE: https://remm.hhs.gov/index.html
+####### SOURCE: https://remm.hhs.gov/index.html
 
 Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented. Official reports released by TEPCO reveal that radioactive material will be present in the water being discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
 ![radsincrease](docs/assets/img/rads_pink.png) 
