@@ -1,3 +1,7 @@
+<style>
+source {  color: red , font-size:6px; }
+yellow { color: yellow }
+</style>
 ##### UPDATE 2022.06.03 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 Public comment period open May 18 2022 - June 17 2022
 
@@ -5,7 +9,7 @@ Public comment period open May 18 2022 - June 17 2022
 # Alert
 #### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination of nearly half the Pacific Ocean in 57 days after start of discharge process. Radioactive contamination projected to reach the west coast of the United States in 5-6 months. 
 ![flowmodel](docs/assets/img/compmodel.png)
-SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
+<source>SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters</source>
 
 Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
 ![spreaddemo](docs/assets/img/radsb.png) 
