@@ -8,9 +8,11 @@ Public comment period open May 18 2022 - June 17 2022
 
 Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
 ![flowers](docs/assets/img/radsb.png) 
+##### SOURCE: https://remm.hhs.gov/index.html
 
 Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented. Official reports released by TEPCO reveal that radioactive material will be present in the water being discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
 ![flowers](docs/assets/img/rads_pink.png) 
+##### SOURCE: [https://remm.hhs.gov/index.html](https://www.tepco.co.jp/en/hd/responsibility/index-e.html)
 
 
 # International Precedent
