@@ -13,14 +13,15 @@ Radioactive contamination of the environment by dispersal of radionuclides is mu
 
 Independent review by scientists and independent organizations like Greenpeace assert the radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented. Official reports released by TEPCO reveal that radioactive material will be present in the water being discharge into the Pacific Ocean. The reports also include expected population level radiation dose increase. 
 ![radsincrease](docs/assets/img/rads_pink.png) 
-###### SOURCE: [https://remm.hhs.gov/index.html](https://www.tepco.co.jp/en/hd/responsibility/index-e.html)
+###### SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
+
 
 
 # International Precedent
 Radioactive waste dumping into the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. "
 ![ Risks ](docs/assets/img/earthquakeplants.jpg) 
 
-# Flawed Filters
+# Treatment Audit
 International environmental groups pointed out in 2021 that TEPCO's water treatment technology of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
 ##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 
@@ -46,6 +47,9 @@ https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-publi
 
 #### University of Hawaii Statement:
 https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
+
+#### Official TEPCO AFLS Water Treatment Plan:
+https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
 
 #### Official TEPCO Decomissioning site:
 https://www.tepco.co.jp/en/hd/responsibility/index-e.html
