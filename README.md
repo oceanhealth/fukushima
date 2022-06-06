@@ -18,14 +18,20 @@ Official reports released by TEPCO reveal that radioactive material will be pres
 
 
 
+# Water Treatment Audit
+International environmental groups pointed out in 2021 that TEPCO's water treatment technology (ALPS) of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
+![radsincrease](docs/assets/img/alps.png) 
+###### SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
+
+
+
+
 # International Precedent
 Radioactive waste dumping into the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. " Independent review by scientists and organizations like Greenpeace assert that radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
 ![ Risks ](docs/assets/img/earthquakeplants.jpg) 
-
-# Treatment Audit
-International environmental groups pointed out in 2021 that TEPCO's water treatment technology of polynuclide removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
 ##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 ##### SOURCE: https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
+
 
 
 ## International Precedent
