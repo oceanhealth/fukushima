@@ -20,11 +20,11 @@ SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepc
 
 ## International Law
 International law prohibits disposal of radioactive waste into the Ocean. The international community must uphold our responsibility to safe nuclear energy and international law. Dumping radioactive waste into the ocean sets a dangerous precedent of acceptable behavior for all nations. 
-##### SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
+SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
 
 
 
-## Important Resources: 
+# Key Resources: 
 ### Greenpeace Summary
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
 
@@ -36,6 +36,9 @@ https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_me
 
 ### Official TEPCO Decomissioning site:
 https://www.tepco.co.jp/en/hd/responsibility/index-e.html
+
+### Impact of Radioactive Wastewater on Marine Life
+https://theconversation.com/nuclear-power-how-might-radioactive-waste-water-affect-the-environment-159483
 
 
 
