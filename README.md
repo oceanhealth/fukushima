@@ -1,6 +1,6 @@
 
 ##### UPDATE 2022.06.03 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
-Public comment period closes - June 17 2022
+Public comment period to TEPCO closes June 17 2022
 
 
 # Alert
@@ -12,6 +12,10 @@ SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated
 Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
 ![spreaddemo](docs/assets/img/radsb.png) 
 SOURCE: https://remm.hhs.gov/index.html
+
+
+## Background 
+
 
 
 ## Treatment Claims
@@ -26,7 +30,8 @@ International law prohibits disposal of radioactive waste into the Ocean. The in
 SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
 
 
-
+# Essence of life at risk
+ Marine plants produce over 70% of our oxygen. Aquatic invertebrates constitute approximately 90% of life on the planet and play a vital role in ecosystem function. The ocean is critically important in our strategy to solve Climate Change. Irreversibly contaminating the entire Ocean with radioactive waste is both unconscionable and irresponsible.
 
 
 # Key Resources: 
