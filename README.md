@@ -54,45 +54,11 @@ https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-publi
 ### University of Hawaii Statement:
 https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
 
-#### Official TEPCO AFLS Water Treatment Plan:
+### Official TEPCO AFLS Water Treatment Plan:
 https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
 
-#### Official TEPCO Decomissioning site:
+### Official TEPCO Decomissioning site:
 https://www.tepco.co.jp/en/hd/responsibility/index-e.html
 
 
 
-
-
-
-
-
-{% comment %}
-######################
-Modern nuclear powerplants have enhanced safety features and default safe designs which enable them operate to in the event of a power outage. At the same time new developments 
-
-## Proposed Solution
-Honor the work of the engineering teams for the last 12  , the engineers for the last 12 years.  Fukushima Will become the global beacon for 
-img of animale types across tanks , and industry inputs across tanks, iteratively
-
-
-## Summary of Risks
-
-
-## Combinatorial Effects
-Modern industry has resulted in thousands of synthetic chemicals flooding our natural environment.  Need extensive testing. Pefect opportunity with large isolated equally divided tanks. 
-
-## Water Desalination Future
-Consideration of water usage scenarios where desalination may provide drinking water may become unfeasable if long lived radioniclide concentrations exceed safe thresholds. 
-
-## Surf Aerosol 
-Coastal communities often experience surf aerosols. 
-
-
-
-### Top Proposals 
--- concrete lake
--- evaporation
-
-######################
-{% endcomment %}
