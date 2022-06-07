@@ -61,3 +61,6 @@ https://www.bbc.com/news/world-asia-54658379
 
 ### Overview by Greenpeace 
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf
+
+### 3D Animated Reactor Overview
+https://www.youtube.com/watch?v=YBNFvZ6Vr2U
