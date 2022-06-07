@@ -1,10 +1,10 @@
 title: "Fukushima Opportunity"
 name: "Name"
 author:
-  name: Dr. Ocean
-  email: your-email@domain.com
+  name: Marine Research 
+  email: oceanhealth.github.io 
 description: > # this means to ignore newlines until "show_excerpts:"
-  Environmental Impact Report
+  Ocean Health Cooperative
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
