@@ -36,7 +36,7 @@ https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-publi
 ### University of Hawaii Statement:
 https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
 
-### Official TEPCO AFLS Water Treatment Plan:
+### Official TEPCO AFPS Water Treatment Plan:
 https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
 
 ### Official TEPCO Decomissioning site:
