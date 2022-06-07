@@ -34,13 +34,12 @@ Dumping radioactive waste into the Ocean was banned under international law in 1
 
 
 New radiation reading taken inside Japan's damaged Fukushima Daiichi nuclear reactor No. 2 shows levels reaching a maximum of 530 sieverts per hour, a number experts have called "unimaginable".
-![ Risks ](docs/assets/img/earthquakeplants.jpg) 
 ##### SOURCE: https://amp.theguardian.com/environment/2017/feb/03/fukushima-daiichi-radiation-levels-highest-since-2011-meltdown
 
 
-## International Precedent
-If the international community accepts one country dumping radioactive waste into the ocean, it sets the precedent of acceptable behavior and Ocean Dumping may be considered as acceptable for other nations as well. It has been well understood since 1972 that the consequences of disposing radioactive material in the ocean are impossible to anticipate. 
-
+## International Law
+International law prohibits disposal of radioactive waste into the Ocean. The international community must uphold our responsibility to safe nuclear energy and international law. Dumping radioactive waste into the ocean sets a dangerous precedent of acceptable behavior for all nations. 
+##### SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
 
 # International Opportunity
 Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 Billion USD. This state of the art plumbing presents a unique opportunity to conduct further study on the effect of the radioactivity as well as further reducing the radioactive 
