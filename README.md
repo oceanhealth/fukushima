@@ -4,7 +4,7 @@ Public comment period to TEPCO closes June 17 2022
 
 
 # Alert
-#### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination of the Pacific Ocean 57 days after start of discharge process. Radioactive contamination projected to reach the west coast of the United States in 5-6 months thereafter. 
+#### This is an urgent health and safety alert regarding the proposed discharge of radioactive waste into the Pacific Ocean. Computer models show widespread contamination 57 days after start of discharge process, with radioactive contamination reaching the US in 5-6 months thereafter. 
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
 
