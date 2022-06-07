@@ -23,24 +23,6 @@ International law prohibits disposal of radioactive waste into the Ocean. The in
 ##### SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
 
 
-# International Precedent
-Dumping radioactive waste into the Ocean has been banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. " Independent review by scientists and organizations including Greenpeace, University of Hawaii, concluded that radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
-![ Risks ](docs/assets/img/earthquakeplants.jpg) 
-##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
-##### SOURCE: https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
-
-
-New radiation reading taken inside Japan's damaged Fukushima Daiichi nuclear reactor No. 2 shows levels reaching a maximum of 530 sieverts per hour, a number experts have called "unimaginable".
-##### SOURCE: https://amp.theguardian.com/environment/2017/feb/03/fukushima-daiichi-radiation-levels-highest-since-2011-meltdown
-
-
-
-
-# International Opportunity
-Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the original disaster. This process took 11 years and $178 Billion USD. This state of the art plumbing presents a unique opportunity to conduct further study on the effect of the radioactivity as well as further reducing the radioactive 
-![tanks](docs/assets/img/flowers.jpg)
-
-
 
 ## Important Resources: 
 ### Greenpeace Summary
