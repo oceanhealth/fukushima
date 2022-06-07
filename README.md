@@ -27,7 +27,7 @@ International environmental groups pointed out in 2021 that TEPCO's water treatm
 
 
 # International Precedent
-Dumping radioactive waste into the Ocean was banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. " Independent review by scientists and organizations including Greenpeace, University of Hawaii, concluded that radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
+Dumping radioactive waste into the Ocean has been banned under international law in 1972. Marine plants produce over 70% of our oxygen and the ocean is vitally important in our strategy to solve Climate Change. During the initial leaks "Monitoring data showed the concentration of Cesium in the waters near Fukushima was 100,000 becquerels per cubic meter, which is 100 times higher than what was detected in the Black Sea after the Chernobyl disaster. " Independent review by scientists and organizations including Greenpeace, University of Hawaii, concluded that radiological hazards of the Fukushima Daiichi Ocean Discharge proposal are globally unprecedented.
 ![ Risks ](docs/assets/img/earthquakeplants.jpg) 
 ##### SOURCE: http://www.stdaily.com/English/BusinessNews/202206/168a45f9ca3844fcb1f3060d50689f3a.shtml
 ##### SOURCE: https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
