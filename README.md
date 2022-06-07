@@ -8,10 +8,13 @@ Public comment period closes - June 17 2022
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
 
+## Dispersal of radionuclides
 Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
 ![spreaddemo](docs/assets/img/radsb.png) 
 SOURCE: https://remm.hhs.gov/index.html
 
+
+## Treatment Claims
 Official plans released by TEPCO clearly show radioactive material being discharged into the Pacific Ocean. The reports also include expected population level radiation dose increase. Environmental groups pointed out in 2021 that TEPCO's water treatment technology (ALPS) removal facility could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
 ![radsincrease](docs/assets/img/alps2x.png) 
 SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
@@ -21,6 +24,8 @@ SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepc
 ## International Law
 International law prohibits disposal of radioactive waste into the Ocean. The international community must uphold our responsibility to safe nuclear energy and international law. Dumping radioactive waste into the ocean sets a dangerous precedent of acceptable behavior for all nations. 
 SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
+
+
 
 
 
