@@ -8,17 +8,17 @@ Public comment period to TEPCO closes June 17 2022
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters
 
-## Dispersal of radionuclides
-Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
-![spreaddemo](docs/assets/img/radsb.png) 
-SOURCE: https://remm.hhs.gov/index.html
-
 
 ## Background 
 Fukushima Daiichi is the largest nuclear reactor meltdown in history. It recived the most severe Level 7 rating from the IAEA and contains 854 tons of nuclear fuel in 3 remaining reactors. Decomissioning is estimated to require 40 years, due in part to the unprecedented levels of radiation, measured at record breaking 530 microsieverts / hour. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Business implications, including storage costs and real estate negotiations, have resulted in a new plan to discharge the tanks into the Ocean.
 ![radsincrease](docs/assets/img/flowers.jpg) 
 SOURCE: https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents
 
+
+## Dispersal of radionuclides
+Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
+![spreaddemo](docs/assets/img/radsb.png) 
+SOURCE: https://remm.hhs.gov/index.html
 
 
 ## Treatment Claims
