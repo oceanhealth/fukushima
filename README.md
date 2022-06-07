@@ -15,6 +15,9 @@ SOURCE: https://remm.hhs.gov/index.html
 
 
 ## Background 
+Fukushima Daiichi is the largest nuclear reactor meltdown in history. It recived the most severe Level 7 rating from the IAEA and contains 854 tons of nuclear fuel in 3 remaining reactors. Decomissioning is estimated to require 40 years, due in part to the unprecedented levels of radiation, measured at record breaking 530 microsieverts / hour. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown.
+![radsincrease](docs/assets/img/flowers.jpg) 
+SOURCE: https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents
 
 
 
