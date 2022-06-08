@@ -1,5 +1,5 @@
 
-##### UPDATE 2022.06.03 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
+##### UPDATE 2022.06.06 Added Resources : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
 Public comment period to TEPCO closes June 17 2022
 
 
@@ -43,6 +43,9 @@ Scientists studying marine wildlife around the reactor site are concerned about 
 # Key Resources: 
 ### Greenpeace Summary
 https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
+
+### Fairewinds Recommendation for Fukushima Daiichi
+https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco
 
 ### University of Hawaii Statement:
 https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
