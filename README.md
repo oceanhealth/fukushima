@@ -1,6 +1,5 @@
 
-##### UPDATE 2022.06.06 Added Resources : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. 
-Public comment period to TEPCO closes June 17 2022
+##### UPDATE June 11 2022 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. Official Public comment period to TEPCO closes June 17 2022
 
 
 # Alert
@@ -10,27 +9,27 @@ SOURCE: https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated
 
 
 ## Background 
-Fukushima Daiichi is the largest nuclear reactor meltdown in history. It recived the most severe Level 7 rating from the IAEA and contains 854 tons of nuclear fuel in 3 remaining reactors. Decomissioning is estimated to require 40 years, due in part to the unprecedented levels of radiation, measured at record breaking 530 microsieverts / hour. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Business implications, including storage costs and real estate negotiations, have resulted in a new plan to discharge the tanks into the Ocean.
+Fukushima Daiichi is the largest nuclear meltdown in history. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Business implications, including storage costs and real estate negotiations, have resulted in a new plan to discharge the tanks into the Ocean.
 ![radsincrease](docs/assets/img/flowers.jpg) 
 SOURCE: https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents
 
 
 ## Dispersal of radionuclides
-Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply, food supply they will continue to emit radiation for hundreds of years, in some cases millions of years. 
+Radioactive contamination of the environment by dispersal of radionuclides is much more hazardous and insidious than exposure to a localized radiation source. If the radionuclides enter the water supply and food supply they will continue to emit radiation for hundreds of years.
 ![spreaddemo](docs/assets/img/radsb.png) 
 SOURCE: https://remm.hhs.gov/index.html
 
 
-## Treatment Claims
-Official plans released by TEPCO explicitly schedule dumping radioactive material, discharged into the Pacific Ocean. The reports also include expected radiation dose increase in population. Environmental groups pointed out in 2021 that TEPCO's water treatment technology (ALPS) could neither remove tritium or carbon-14, nor completely remove other radioactive isotopes such as strontium- 90, iodine-129 and cobalt-16.
+## Ocean Discharge
+Official plans released by TEPCO explicitly schedule dumping treated radioactive water into the Pacific Ocean. This process will take 30 years of constant discharge into the Ocean. The reports also include expected radiation dose projections for the population. Environmental groups pointed out in 2021 that TEPCO's water treatment technology (ALPS) could not remove tritium or many other radioactive isotopes.
 ![radsincrease](docs/assets/img/alps2x.png) 
-SOURCE: https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
+SOURCE: docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf
 
 
 
 ## International Law
 International law prohibits disposal of radioactive waste into the Ocean. The international community must uphold our responsibility to safe nuclear energy and international law. Dumping radioactive waste into the ocean sets a dangerous precedent of acceptable behavior for all nations. 
-SOURCE: https://www.iaea.org/sites/default/files/publications/magazines/bulletin/bull36-2/36205981216.pdf
+SOURCE: docs/assets/reports/london_convention_pdf.pdf
 
 
 ## Essence of life
