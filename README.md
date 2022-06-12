@@ -34,6 +34,8 @@ SOURCE: [docs/assets/reports/london_convention_pdf.pdf](docs/assets/reports/lond
 
 ## Essence of life
 Marine plants produce over 70% of our oxygen. Aquatic invertebrates constitute approximately 90% of life on the planet and play a vital role in ecosystem function. The ocean is critically important in our strategy to solve Climate Change. Irreversibly contaminating the entire Ocean with radioactive materials undermines ecological stability.
+![water cycle](docs/assets/img/water_cycle_natural.jpg) 
+
  
 ## Generational Effects
 Scientists studying marine wildlife around the reactor site are concerned about the effects of radioactive waste on the aquatic environment. Despite claims that these radionuclides will be diluted and therefore, present in only small quantities, these do not account for the accumulation of radionuclides in consumers higher up in the food chain, including humans. Lab studies have also presented evidence for DNA damage to marine wildlife from extended exposure to radioactive particles, especially those which include the same isotopes as ones found at the Fukushima reactor site. These affected wildlife, some of which are mobile, will then have cascading effects on the environment if mutations are passed on through generations of breeding.
@@ -43,30 +45,30 @@ Please read Fairewinds Recommendation linked below
 
 # Key Resources: 
 ### Greenpeace Summary
-https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf
+[https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf](https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf)
 
-### Fairewinds Recommendation for Fukushima Daiichi
-https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco
+### Fairewinds Recommendations:
+[https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco](https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco)
 
-### University of Hawaii Statement:
-https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump/
+### University of Hawaii Recommendations:
+[https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump)
 
 ### Official TEPCO AFPS Water Treatment Plan:
-https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf
+[https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf](https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf)
 
 ### Official TEPCO Decomissioning site:
-https://www.tepco.co.jp/en/hd/responsibility/index-e.html
+[https://www.tepco.co.jp/en/hd/responsibility/index-e.html](https://www.tepco.co.jp/en/hd/responsibility/index-e.html)
 
 ### Impact of Radioactive Wastewater on Marine Life
-https://theconversation.com/nuclear-power-how-might-radioactive-waste-water-affect-the-environment-159483
+[https://theconversation.com/nuclear-power-how-might-radioactive-waste-water-affect-the-environment-159483](https://theconversation.com/nuclear-power-how-might-radioactive-waste-water-affect-the-environment-159483)
 
 ### Fukushima: Contaminated water could damage human DNA
-https://www.bbc.com/news/world-asia-54658379
+[https://www.bbc.com/news/world-asia-54658379](https://www.bbc.com/news/world-asia-54658379)
 
 ### Overview by Greenpeace 
-https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf
+[https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf](https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf)
 
 ### 3D Animated Reactor Overview
-https://www.youtube.com/watch?v=YBNFvZ6Vr2U
+[https://www.youtube.com/watch?v=YBNFvZ6Vr2U](https://www.youtube.com/watch?v=YBNFvZ6Vr2U)
 
 
