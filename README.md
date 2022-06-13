@@ -43,7 +43,19 @@ Scientists studying marine wildlife around the reactor site are concerned about 
 ## Scientific Consensus
 Please read Fairewinds Recommendation linked below
 
-# Key Resources: 
+# Resources: 
+"Tuna caught off California carry radiation from the Japanese disaster, Stanford scientist finds" 
+https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html
+
+"Scientists say impact of long term low-dose [radiation] exposure to the environment and humans are unknown, and that tritium can have a bigger impact on humans when consumed in fish than in water."
+https://www.sfgate.com/news/article/Japan-OKs-plan-to-release-Fukushima-nuclear-plant-17180803.php
+
+"Fukushima Radiation Detected Off California Coast"
+https://www.iflscience.com/harmless-levels-fukushima-radiation-detected-california-coast-26283
+
+"Tests of milk samples taken last week in Spokane, Washington., indicate the presence of radioactive iodine from the troubled Fukushima Daiichi nuclear plant in Japan " 
+https://www.nytimes.com/2011/03/31/us/31milk.html
+
 ### Greenpeace Summary
 [https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf](https://www.greenpeace.org/static/planet4-japan-stateless/2021/12/9a52607f-public-comment-on-fukushima-radiological-assessment-.pdf)
 
