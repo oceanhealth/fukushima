@@ -3,7 +3,7 @@
 
 
 # Alert
-#### This is a health and safety alert regarding the proposed discharge of treated radioactive water into the Pacific Ocean. Computer models show widespread contamination 57 days after start of discharge process, with radioactive contamination reaching the US in 5-6 months thereafter. 
+#### This is a health and safety alert regarding the proposed discharge of treated radioactive water into the Pacific Ocean. Contamination has already been detected in everything from [Fish](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html) to [Fine Wine](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html). Computer models project widespread contamination 57 days after start of discharge process, reaching the US in 5-6 months thereafter. 
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
 
