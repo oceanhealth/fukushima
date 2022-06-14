@@ -67,6 +67,9 @@ https://www.nytimes.com/2011/03/31/us/31milk.html
 ### University of Hawaii Recommendations:
 [https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump)
 
+### Science 
+[https://www.science.org/doi/10.1126/science.abc1507](https://www.science.org/doi/10.1126/science.abc1507)
+
 ### Official TEPCO AFPS Water Treatment Plan:
 [https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf](https://www.iaea.org/sites/default/files/report_1_review_mission_to_tepco_and_meti.pdf)
 
