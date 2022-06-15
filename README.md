@@ -3,7 +3,7 @@
 
 
 # Advisory
-#### This is a health and safety advisory regarding the potential implications of the proposed treated radioactive water discharge into the Pacific Ocean. In California contamination has already been detected in everything from fine wine ([2018, CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)) to fish ([2012, Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)). (GEOMAR) Computer models project the propagation of highly diluted radionuclides reaching the US 5-6 months after start of discharge. 
+#### This is a health and safety advisory regarding the potential implications of the proposed treated radioactive water discharge into the Pacific Ocean. In California contamination has already been detected in everything from fine wine ([2018, CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)) to fish ([2012, Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)). (GEOMAR) Computer models show the propagation of highly diluted radionuclides reaching the US 5-6 months after start of discharge. 
 
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
