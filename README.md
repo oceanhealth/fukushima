@@ -23,7 +23,7 @@ Radioactive contamination of the environment by dispersal of radionuclides is mu
 SOURCE: [https://remm.hhs.gov/index.html](https://remm.hhs.gov/index.html)
 
 
-## Ocean Discharge
+## Unknowns, Potential Risks and Side effects 
 Official plans released by TEPCO explicitly schedule dumping treated radioactive water into the Pacific Ocean. This process will take 30 years of constant discharge into the Ocean. The reports also include expected radiation dose projections for the population. Environmental groups pointed out in 2021 that TEPCO's water treatment technology (ALPS) could not remove tritium or many other radioactive isotopes.
 ![radsincrease](docs/assets/img/alps2x.png) 
 SOURCE: [docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf](docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf)
@@ -39,13 +39,12 @@ SOURCE: [docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf](docs
 #### Increased and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. 
 ####
 
-
-
-
 ## International Law
 Modern micro nuclear reactors offer unprecedented power density and operational capabilities which are the future of many exciting applications, including high speed space travel and interplanetary human expansion. International laws help to ensure a safe and healthy future for humans and animals alike. In 1993 The United States championed an international ban on nuclear dumping at sea. It is time to reaffirm our strengthen our commitment to our children and future generations. The most important component of this commitment is the [Precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle) if there is possibility for the damage to be irreversible. 
 
 SOURCE: [docs/assets/reports/london_convention_pdf.pdf](docs/assets/reports/london_convention_pdf.pdf)
+
+
 
 
 ## Essence of life
