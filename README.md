@@ -43,7 +43,7 @@ SOURCE: [docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf](docs
 
 
 ## International Law
-Modern micro nuclear reactors offer unprecedented power density and operational capabilities which are the future of many exciting applications, including high speed space travel and interplanetary human expansion. International laws help to ensure a safe and healthy future for humans and animals alike. In 1993 The United States championed an international ban on nuclear dumping at sea. It is time to reaffirm our strengthen our commitment to our children and future generations. The most important component of this commitment is the [Precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle). 
+Modern micro nuclear reactors offer unprecedented power density and operational capabilities which are the future of many exciting applications, including high speed space travel and interplanetary human expansion. International laws help to ensure a safe and healthy future for humans and animals alike. In 1993 The United States championed an international ban on nuclear dumping at sea. It is time to reaffirm our strengthen our commitment to our children and future generations. The most important component of this commitment is the [Precautionary principle](https://en.wikipedia.org/wiki/Precautionary_principle) if there is possibility for the damage to be irreversible. 
 
 SOURCE: [docs/assets/reports/london_convention_pdf.pdf](docs/assets/reports/london_convention_pdf.pdf)
 
