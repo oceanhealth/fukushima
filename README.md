@@ -9,10 +9,17 @@
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
 
 
-## Background 
+# Background 
 Fukushima Daiichi is one of the largest nuclear meltdowns in history. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Business implications, including storage costs and real estate implications, have been cited as the reason for a new plan to discharge the tanks into the Pacific Ocean.
 ![radsincrease](docs/assets/img/flowers.jpg) 
 SOURCE: [https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents](https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents)
+
+# Solutions and Recommendations 
+--[University of Hawaii Recommendation](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump), 
+--[Fairewinds Energy Recommendation](https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco), 
+--[Greenpeace Recommendation](https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf) , 
+--[Fungi Remediation Recommendation](https://sign.moveon.org/petitions/implement-paul-stamets), 
+--[Gelatin Preservation Recommendation](https://gelatin1 ), Increased Jurisdiction and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. It is indisputable that Modern Micro Nuclear Reactors offer unprecedented power density and operational capabilities that are the future of a wide range of exciting applications, including high speed space travel and interplanetary outposts. 
 
 
 ## Dispersal of radionuclides
@@ -40,12 +47,7 @@ Marine plants produce over 70% of our oxygen. Aquatic invertebrates constitute a
 ## Generational Effects
 Scientists studying marine wildlife around the reactor site are concerned about the effects of radioactive waste on the aquatic environment. Despite claims that these radionuclides will be diluted and therefore, present in only small quantities, these do not account for the accumulation of radionuclides in consumers higher up in the food chain, including humans. Lab studies have also presented evidence for DNA damage to marine wildlife from extended exposure to radioactive particles, especially those which include the same isotopes as ones found at the Fukushima reactor site. These affected wildlife, some of which are mobile, will then have cascading effects on the environment if mutations are passed on through generations of breeding.
 
-## Solutions and Recommendations 
--[University of Hawaii Recommendation](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump), 
--[Fairewinds Energy Recommendation](https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco), 
--[Greenpeace Recommendation](https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf) , 
--[Fungi Remediation Recommendation](https://sign.moveon.org/petitions/implement-paul-stamets), 
--[Gelatin Preservation Recommendation](https://gelatin1 ), Increased Jurisdiction and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. It is indisputable that Modern Micro Nuclear Reactors offer unprecedented power density and operational capabilities that are the future of a wide range of exciting applications, including high speed space travel and interplanetary outposts. 
+
 
 ## Sources 
 All the hard and valuable work in this document was completed and made possible by GEOMAR, Greenpeace, Stanford University, SFGate, Fairewinds Energy Education, New York Times. All linked in original form with PDFs in the CDN for convenient loading.
