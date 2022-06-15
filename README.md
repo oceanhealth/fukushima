@@ -30,11 +30,11 @@ SOURCE: [docs/assets/reports/report_1_review_mission_to_tepco_and_meti.pdf](docs
 
 
 # Solutions and Recommendations 
-##[University of Hawaii Recommendation](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump), 
-##[Fairewinds Energy Recommendation](https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco), 
-##[Greenpeace Recommendation](https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf) , 
-##[Fungi Remediation Recommendation](https://sign.moveon.org/petitions/implement-paul-stamets), 
-##[Gelatin Preservation Recommendation](https://gelatin1 ), Increased Jurisdiction and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. It is indisputable that Modern Micro Nuclear Reactors offer unprecedented power density and operational capabilities that are the future of a wide range of exciting applications, including high speed space travel and interplanetary outposts. 
+## [University of Hawaii Recommendation](https://www.hawaii.edu/news/2022/05/02/treated-nuclear-wastewater-dump), 
+## [Fairewinds Energy Recommendation](https://www.fairewinds.org/fairewinds-recomendation-for-fukushima/?rq=Fairewinds%20reco), 
+## [Greenpeace Recommendation](https://www.greenpeace.org/static/planet4-japan-stateless/2021/03/ff71ab0b-finalfukushima2011-2020_web.pdf) , 
+## [Fungi Remediation Recommendation](https://sign.moveon.org/petitions/implement-paul-stamets), 
+## [Gelatin Preservation Recommendation](https://gelatin1 ), Increased Jurisdiction and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. It is indisputable that Modern Micro Nuclear Reactors offer unprecedented power density and operational capabilities that are the future of a wide range of exciting applications, including high speed space travel and interplanetary outposts. 
 
 
 
