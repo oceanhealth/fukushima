@@ -35,7 +35,6 @@ SOURCE: [docs/assets/reports/london_convention_pdf.pdf](docs/assets/reports/lond
 
 ## Essence of life
 Marine plants produce over 70% of our oxygen. Aquatic invertebrates constitute approximately 90% of life on the planet and play a vital role in ecosystem function. The ocean is critically important in our strategy to solve Climate Change. Irreversibly contaminating the entire Ocean with radioactive materials undermines ecological stability.
-![water cycle](docs/assets/img/water_cycle_natural.jpg) 
 
  
 ## Generational Effects
