@@ -1,9 +1,9 @@
 
-##### UPDATE June 11 2022 : DISCLAIMER: This essay does not debate the efficacy of Nuclear Energy. Official Public comment period to TEPCO closes June 17 2022
+##### UPDATE June 11 2022 : Suggested Public comment period closing June 17 2022.  DISCLAIMER: This essay is not about efficacy of Nuclear Energy. 
 
 
-# Alert
-#### This is a health and safety alert regarding the proposed discharge of treated radioactive water into the Pacific Ocean. In California contamination has already been detected in everything from fine wine ([2018, CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)) to fish ([2012, Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)). Computer models project widespread contamination 57 days after start of discharge process, reaching the US in 5-6 months thereafter. 
+# Advisory
+#### This is a health and safety advisory regarding the potential implications of the proposed treated radioactive water discharge into the Pacific Ocean. In California contamination has already been detected in everything from fine wine ([2018, CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)) to fish ([2012, Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)). Computer models project widespread contamination 57 days after start of discharge process, reaching the US in 5-6 months thereafter. 
 ![flowmodel](docs/assets/img/compmodel.png)
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
 
