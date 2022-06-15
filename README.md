@@ -41,8 +41,10 @@ Marine plants produce over 70% of our oxygen. Aquatic invertebrates constitute a
 ## Generational Effects
 Scientists studying marine wildlife around the reactor site are concerned about the effects of radioactive waste on the aquatic environment. Despite claims that these radionuclides will be diluted and therefore, present in only small quantities, these do not account for the accumulation of radionuclides in consumers higher up in the food chain, including humans. Lab studies have also presented evidence for DNA damage to marine wildlife from extended exposure to radioactive particles, especially those which include the same isotopes as ones found at the Fukushima reactor site. These affected wildlife, some of which are mobile, will then have cascading effects on the environment if mutations are passed on through generations of breeding.
 
-## Source Material
-Please read Fairewinds Recommendation linked below
+## Solutions and Recommendations 
+Fairewinds Recommendation, Greenpeace Recommendation, Fungi Remediation Recommendation, Gelatin Preservation Recommendation, Increased Jurisdiction and continous uninterupted access for IAEA inspectors at all significant active reactors near the Ocean. It is indisputable that Modern Micro Nuclear Reactors offer unprecedented power density and operational capabilities that are the future of a wide range of exciting applications, including high speed space travel and interplanetary outposts. 
+
+## Sources 
 All the hard and valuable work in this document was completed and made possible by GEOMAR, Greenpeace, Stanford University, SFGate, Fairewinds Energy Education, New York Times. All linked in original form with PDFs in the CDN for convenient loading.
 
 
