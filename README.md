@@ -3,14 +3,14 @@
 
 
 # Overview
-#### This is a health and safety analysis of the proposed radioactive water discharge into the Pacific Ocean. Radioactive contamination from Fukushima has already been detected in plants, animals and the foodchain in California, ranging from fish ([Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)) to wine ([CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)). Computer models ( [GEOMAR](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters) ) show the spread of highly diluted radionuclides reaching the U.S. in just 5 months after the start of discharge. 
+#### This is a health and safety analysis of the proposed radioactive water discharge into the Pacific Ocean. Radioactive contamination from Fukushima has already been detected in California plants, animals and food supply, ranging from fish ([Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)) to wine ([CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)). Computer models ( [GEOMAR](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters) ) show the spread of highly diluted radionuclides reaching the U.S. in just 5 months after the start of discharge. 
 
 ![flowmodel](docs/assets/img/compmodel2.png)
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
 
 
 # Background 
-Fukushima Daiichi is one of the largest nuclear meltdowns in history, three times the size of Chernobyl. Currently there are 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Storage costs and real estate implications, have been cited as the reason for a new plan to discharge the tanks into the Pacific Ocean.
+Fukushima Daiichi is one of the largest nuclear meltdowns in history, at three times the size of Chernobyl. Currently there are over 1.3 million tons of radioactive water stored in tanks near the site of the meltdown. Storage costs and real estate implications, have been cited as the reason for a new plan to discharge the tanks into the Pacific Ocean, despite technological limitations and the inability to remove all radioactive materials.
 ![radsincrease](docs/assets/img/flowers.jpg) 
 SOURCE: [https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents](https://en.wikipedia.org/wiki/Comparison_of_the_Chernobyl_and_Fukushima_nuclear_accidents)
 
