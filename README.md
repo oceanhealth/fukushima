@@ -3,7 +3,7 @@
 
 
 # Overview
-#### This is a health and safety analysis of the proposed radioactive water discharge into the Pacific Ocean. Radioactive contamination from Fukushima has already been detected in plants and animals in California, ranging from fish ([Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)) to wine ([CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)). Computer models ( [GEOMAR](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters) ) show the spread of highly diluted radionuclides reaching the U.S. in just 5 months after the start of discharge. 
+#### This is a health and safety analysis of the proposed radioactive water discharge into the Pacific Ocean. Radioactive contamination from Fukushima has already been detected in plants, animals and the foodchain in California, ranging from fish ([Stanford](https://news.stanford.edu/news/2012/may/tuna-radioactive-materials-053012.html)) to wine ([CNN](https://edition.cnn.com/2018/07/23/health/california-wine-radioactive-fukushima-trnd/index.html)). Computer models ( [GEOMAR](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters) ) show the spread of highly diluted radionuclides reaching the U.S. in just 5 months after the start of discharge. 
 
 ![flowmodel](docs/assets/img/compmodel2.png)
 SOURCE: [https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters](https://www.geomar.de/en/news/article/fukushima-the-fate-of-contaminated-waters)
